@@ -57,9 +57,10 @@ pip install -r requirements.txt
 - **User-Centric Approach**: Focus on creating engaging and contextually relevant content to resonate with a broader audience.
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
+Contributions are welcome! If you find any issues or want to improve the code, feel free to open a pull request or create an issue in the repository.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for more details.
 
-For additional details, refer to the project report.
+
+For more details, please refer to the [project report](./Twitter_Data_Analysis_Report.pdf).
